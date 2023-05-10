@@ -1,0 +1,12 @@
+lr: 1.0e-05
+model_kwargs: null
+pretrained: true
+thresholds:
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
