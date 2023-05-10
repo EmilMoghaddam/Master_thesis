@@ -3,18 +3,16 @@
 Dataset and model weights are available through download: 
 
 
-
 Motion_skill data set:
 	
-	Image files:
+Toyohashi campus images: https://drive.google.com/drive/folders/12DVX_r-DhLd4wSjN-q5g9qZl-OfUp6cA?usp=share_link	
+
+Austin campus(SCAND) images: https://drive.google.com/drive/folders/1yiyD2oC3h7I8XLmVqIcl0IXyhrXXRL39?usp=share_link
 	
-	Toyohashi campus: https://drive.google.com/drive/folders/12DVX_r-DhLd4wSjN-q5g9qZl-OfUp6cA?usp=share_link	
-	Austin campus(SCAND): https://drive.google.com/drive/folders/1yiyD2oC3h7I8XLmVqIcl0IXyhrXXRL39?usp=share_link
 	
-	
-	Video files: 
-	Toyohashi campus: https://drive.google.com/drive/folders/1Ndb8jK1XzG0kd-XQs_tXs9b3BLeSZI41?usp=share_link
-	Austin campus(SCAND): https://drive.google.com/drive/folders/1yiyD2oC3h7I8XLmVqIcl0IXyhrXXRL39?usp=share_link
+Toyohashi campus source videos: https://drive.google.com/drive/folders/1Ndb8jK1XzG0kd-XQs_tXs9b3BLeSZI41?usp=share_link
+
+Austin campus(SCAND) source videos: https://drive.google.com/drive/folders/1yiyD2oC3h7I8XLmVqIcl0IXyhrXXRL39?usp=share_link
 		
 		
 Model weights: 
