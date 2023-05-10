@@ -1,0 +1,13 @@
+cp_path: load_checkpoints/resnet_val_checkpoint_untrained/epoch=32-step=179454.ckpt
+lr: 1.0e-05
+model_kwargs: null
+pretrained: false
+thresholds:
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5

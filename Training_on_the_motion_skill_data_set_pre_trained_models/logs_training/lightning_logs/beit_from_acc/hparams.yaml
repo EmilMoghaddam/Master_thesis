@@ -1,0 +1,13 @@
+cp_path: load_checkpoints/beit_acc_checkpoint_pretrained/epoch=8-step=48942.ckpt
+lr: 1.0e-05
+model_kwargs: null
+pretrained: true
+thresholds:
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
